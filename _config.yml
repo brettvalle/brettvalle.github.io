@@ -1,3 +1,2 @@
-theme: jekyll-theme-midnight
-title: bvalle
-description: hello world
+name: bvalle
+markdown: kramdown
